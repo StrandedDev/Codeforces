@@ -1,3 +1,3 @@
 ## Contest URL
 
-(Open)[https://codeforces.com/group/MWSDmqGsZm/contest/219158]
+[Contest - ICPC Assiut University Community](https://codeforces.com/group/MWSDmqGsZm/contest/219158)
